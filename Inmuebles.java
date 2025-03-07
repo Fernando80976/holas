@@ -44,6 +44,14 @@ public class Inmuebles {
 	public int getAño() {
 		return año;
 	}
+public String getAño() {
+    String metodo1="";
+		return metodo1;
+	}
+public String getAño() {
+    String metodo2="";
+		return metodo2;
+	}
 
 	public void setAño(int año) {
 		this.año = año;
