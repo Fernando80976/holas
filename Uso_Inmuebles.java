@@ -1,7 +1,7 @@
 package ud7Ej5hoja2;
 
 public class Uso_Inmuebles {
-
+    //main de la clase
 	public static void main(String[] args) {
 		
 		Inmuebles [] inmuebles=new Inmuebles[5];
@@ -9,5 +9,5 @@ public class Uso_Inmuebles {
 		inmuebles[0]=pisos;
 	System.out.println(inmuebles[0]);
 	}
-
+    
 }
