@@ -2,6 +2,7 @@ package ud7Ej5hoja2;
 
 public class Inmuebles {
 	//Este es mi cambio
+    //Este es mi segundo cambio
 
 	private  String direccion,estado;
 	private int MCdros,año;
