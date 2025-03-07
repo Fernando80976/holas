@@ -2,6 +2,7 @@ package ud7Ej5hoja2;
 
 public class Uso_Inmuebles {
     //main de la clase
+    // Cambio 2
 	public static void main(String[] args) {
 		
 		Inmuebles [] inmuebles=new Inmuebles[5];
